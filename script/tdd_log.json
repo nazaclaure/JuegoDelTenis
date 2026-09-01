@@ -22,9 +22,23 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "eebb7496dd5f9216c67e641674aa7502390d58ae",
     "commitName": "feat: caso 1 - inicio del partido Love - Love",
     "commitTimestamp": 1788271021643,
     "testId": 1
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1788271164371,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: caso 1 - inicio del partido Love - Love",
+    "commitTimestamp": 1788271198865,
+    "testId": 2
   }
 ]

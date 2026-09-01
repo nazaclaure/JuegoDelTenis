@@ -1,7 +1,8 @@
-import obtenerMarcador from "./tenis.js";
+import Tenis from "./tenis.js";
 
 describe("Juego del Tenis", () => {
-  it("deberia estar en 'Love - Love' cuando se inicia el partido", () => {
-    expect(obtenerMarcador(0, 0)).toEqual("Love - Love");
+  it("deberia mostrar 'Love - Love' al iniciar el partido", () => {
+    const juego = new Tenis();
+    expect(juego.obtenerScore()).toEqual("Love - Love");
   });
 });
