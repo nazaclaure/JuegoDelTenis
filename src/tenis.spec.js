@@ -34,4 +34,9 @@ describe("Juego del Tenis", () => {
      juego.jugador1Anota();
      expect(juego.obtenerScore()).toEqual("Game for Player 1");
     });
+    it("deberia mostrar 'Love - 15' cuando el jugador 2 anota 1 vez", () => {
+        const juego = new Tenis();
+        juego.jugador2Anota();
+        expect(juego.obtenerScore()).toEqual("Love - 15");
+    });
 });
