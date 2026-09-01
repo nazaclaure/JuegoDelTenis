@@ -171,12 +171,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "94f8c8a14af51386449ae804aad52ce6b517f031",
     "author": "nazaclaure",
     "commit": {
       "date": "2026-09-01T14:23:34.000Z",
       "message": "feat: caso 10 - jugador 1 anota 2 veces y jugador 2 anota 1 vez 30 - 15",
-      "url": "https://github.com/nazaclaure/JuegoDelTenis/commit/HEAD"
+      "url": "https://github.com/nazaclaure/JuegoDelTenis/commit/94f8c8a14af51386449ae804aad52ce6b517f031"
     },
     "stats": {
       "total": 13,
@@ -186,6 +186,25 @@
     },
     "coverage": 100,
     "test_count": 11,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "nazaclaure",
+    "commit": {
+      "date": "2026-09-01T14:24:49.000Z",
+      "message": "feat: caso 11 - empate a 3 puntos Deuce",
+      "url": "https://github.com/nazaclaure/JuegoDelTenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 14,
+      "additions": 14,
+      "deletions": 0,
+      "date": "2026-09-01"
+    },
+    "coverage": 100,
+    "test_count": 12,
     "failed_tests": 0,
     "conclusion": "success"
   }

@@ -71,4 +71,15 @@ describe("Juego del Tenis", () => {
     juego.jugador2Anota();
     expect(juego.obtenerScore()).toEqual("30 - 15");
     });
+
+    it("deberia mostrar 'Deuce' cuando ambos jugadores anotan 3 veces", () => {
+    const juego = new Tenis();
+    juego.jugador1Anota();
+    juego.jugador1Anota();
+    juego.jugador1Anota();
+    juego.jugador2Anota();
+    juego.jugador2Anota();
+    juego.jugador2Anota();
+    expect(juego.obtenerScore()).toEqual("Deuce");
+    });
 });
