@@ -117,5 +117,17 @@ describe("Juego del Tenis", () => {
         juego.jugador1Anota();
         expect(juego.obtenerScore()).toEqual("Game for Player 1");
     });
+    it("deberia mostrar 'Game for Player 2' cuando el jugador 1 anota 3 veces y el jugador 2 anota 5 veces", () => {
+    const juego = new Tenis();
+    juego.jugador1Anota();
+    juego.jugador1Anota();
+    juego.jugador1Anota();
+    juego.jugador2Anota();
+    juego.jugador2Anota();
+    juego.jugador2Anota();
+    juego.jugador2Anota();
+    juego.jugador2Anota();
+    expect(juego.obtenerScore()).toEqual("Game for Player 2");
+    });
 
 });
