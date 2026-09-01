@@ -310,9 +310,31 @@
     "testId": 13
   },
   {
-    "commitId": "HEAD",
+    "commitId": "4a51429c379c758526ecc3b30e4e9ef1f5163113",
     "commitName": "feat: caso 13 - ventaja para jugador 2 Advantage for Player 2",
     "commitTimestamp": 1788272802930,
     "testId": 13
+  },
+  {
+    "numPassedTests": 14,
+    "failedTests": 1,
+    "numTotalTests": 15,
+    "timestamp": 1788272852262,
+    "success": false,
+    "testId": 14
+  },
+  {
+    "numPassedTests": 15,
+    "failedTests": 0,
+    "numTotalTests": 15,
+    "timestamp": 1788272864087,
+    "success": true,
+    "testId": 14
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: caso 14 - victoria tras ventaja para jugador 1 Game for Player 1",
+    "commitTimestamp": 1788272870004,
+    "testId": 14
   }
 ]

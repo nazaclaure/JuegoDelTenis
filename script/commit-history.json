@@ -228,12 +228,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "4a51429c379c758526ecc3b30e4e9ef1f5163113",
     "author": "nazaclaure",
     "commit": {
       "date": "2026-09-01T14:26:41.000Z",
       "message": "feat: caso 13 - ventaja para jugador 2 Advantage for Player 2",
-      "url": "https://github.com/nazaclaure/JuegoDelTenis/commit/HEAD"
+      "url": "https://github.com/nazaclaure/JuegoDelTenis/commit/4a51429c379c758526ecc3b30e4e9ef1f5163113"
     },
     "stats": {
       "total": 14,
@@ -243,6 +243,25 @@
     },
     "coverage": 100,
     "test_count": 14,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "nazaclaure",
+    "commit": {
+      "date": "2026-09-01T14:27:48.000Z",
+      "message": "feat: caso 14 - victoria tras ventaja para jugador 1 Game for Player 1",
+      "url": "https://github.com/nazaclaure/JuegoDelTenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 17,
+      "additions": 17,
+      "deletions": 0,
+      "date": "2026-09-01"
+    },
+    "coverage": 96.88,
+    "test_count": 15,
     "failed_tests": 0,
     "conclusion": "success"
   }
