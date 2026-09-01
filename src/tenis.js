@@ -16,6 +16,9 @@ class Tenis {
     if (this.puntosP1 === 4 && this.puntosP2 === 3) {
       return "Advantage for Player 1";
     }
+    if (this.puntosP2 === 4 && this.puntosP1 === 3) {
+      return "Advantage for Player 2";
+    }
     if (this.puntosP1 === 3 && this.puntosP2 === 3) {
       return "Deuce";
     }
