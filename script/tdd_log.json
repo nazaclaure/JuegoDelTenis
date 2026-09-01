@@ -222,9 +222,31 @@
     "testId": 9
   },
   {
-    "commitId": "HEAD",
+    "commitId": "6800141a2271c440da86ed5a9666cac7aebe6127",
     "commitName": "feat: caso 9 - jugador 2 anota 4 veces Game for Player 2",
     "commitTimestamp": 1788272507594,
     "testId": 9
+  },
+  {
+    "numPassedTests": 10,
+    "failedTests": 1,
+    "numTotalTests": 11,
+    "timestamp": 1788272594770,
+    "success": false,
+    "testId": 10
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 0,
+    "numTotalTests": 11,
+    "timestamp": 1788272609267,
+    "success": true,
+    "testId": 10
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: caso 10 - jugador 1 anota 2 veces y jugador 2 anota 1 vez 30 - 15",
+    "commitTimestamp": 1788272615528,
+    "testId": 10
   }
 ]
