@@ -74,9 +74,31 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "2a4e75eef4e30c8e0ba4e07b64456f97decc379d",
     "commitName": "feat: caso 3 - jugador 1 anota 2 veces 30 - Love",
     "commitTimestamp": 1788271471029,
     "testId": 3
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1788271596810,
+    "success": false,
+    "testId": 4
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1788271677051,
+    "success": true,
+    "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: caso 4 - jugador 1 anota 3 veces 40 - Love",
+    "commitTimestamp": 1788271727368,
+    "testId": 4
   }
 ]

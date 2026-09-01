@@ -13,6 +13,9 @@ class Tenis {
   }
 
   obtenerScore() {
+    if (this.puntosP1 === 3) {
+      return "40 - Love";
+    }
     if (this.puntosP1 === 2) {
       return "30 - Love";
     }
