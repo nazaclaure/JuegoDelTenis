@@ -16,6 +16,9 @@ class Tenis {
     if (this.puntosP1 === 4) {
       return "Game for Player 1";
     }
+    if (this.puntosP2 === 4) {
+      return "Game for Player 2";
+    }
     if (this.puntosP1 === 3) {
       return "40 - Love";
     }
