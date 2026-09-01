@@ -140,9 +140,39 @@
     "testId": 6
   },
   {
-    "commitId": "HEAD",
+    "commitId": "3ab4eab17a5a81220ea3a1d64a9fd77b90acc6c6",
     "commitName": "feat: caso 6 - jugador 2 anota 1 vez Love - 15",
     "commitTimestamp": 1788272141640,
     "testId": 6
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1788272193689,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 1,
+    "numTotalTests": 8,
+    "timestamp": 1788272207982,
+    "success": false,
+    "testId": 7
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 0,
+    "numTotalTests": 8,
+    "timestamp": 1788272245657,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: caso 7 - jugador 2 anota 2 veces Love - 30",
+    "commitTimestamp": 1788272271245,
+    "testId": 7
   }
 ]
