@@ -114,12 +114,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "d94d9e3b894b8cb14d3b20bea71948167e141764",
     "author": "nazaclaure",
     "commit": {
       "date": "2026-09-01T14:17:49.000Z",
       "message": "feat: caso 7 - jugador 2 anota 2 veces Love - 30",
-      "url": "https://github.com/nazaclaure/JuegoDelTenis/commit/HEAD"
+      "url": "https://github.com/nazaclaure/JuegoDelTenis/commit/d94d9e3b894b8cb14d3b20bea71948167e141764"
     },
     "stats": {
       "total": 10,
@@ -129,6 +129,25 @@
     },
     "coverage": 100,
     "test_count": 8,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "nazaclaure",
+    "commit": {
+      "date": "2026-09-01T14:19:17.000Z",
+      "message": "feat: caso 8 - jugador 2 anota 3 veces Love - 40",
+      "url": "https://github.com/nazaclaure/JuegoDelTenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 19,
+      "additions": 15,
+      "deletions": 4,
+      "date": "2026-09-01"
+    },
+    "coverage": 100,
+    "test_count": 9,
     "failed_tests": 0,
     "conclusion": "success"
   }

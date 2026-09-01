@@ -25,6 +25,9 @@ class Tenis {
     if (this.puntosP1 === 1) {
       return "15 - Love";
     }
+    if (this.puntosP2 === 3) {
+      return "Love - 40";
+    }
     if (this.puntosP2 === 2) {
       return "Love - 30";
     }
