@@ -36,9 +36,47 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "5a4f5ef88e33309c511b7e27ced3690b38e055ae",
     "commitName": "feat: caso 1 - inicio del partido Love - Love",
     "commitTimestamp": 1788271198865,
     "testId": 2
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1788271275051,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1788271304090,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 1,
+    "numTotalTests": 4,
+    "timestamp": 1788271428771,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1788271450516,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: caso 3 - jugador 1 anota 2 veces 30 - Love",
+    "commitTimestamp": 1788271471029,
+    "testId": 3
   }
 ]
