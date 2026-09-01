@@ -190,12 +190,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "0e6509c0d059c047022e79ed6debc89d4e224c5f",
     "author": "nazaclaure",
     "commit": {
       "date": "2026-09-01T14:24:49.000Z",
       "message": "feat: caso 11 - empate a 3 puntos Deuce",
-      "url": "https://github.com/nazaclaure/JuegoDelTenis/commit/HEAD"
+      "url": "https://github.com/nazaclaure/JuegoDelTenis/commit/0e6509c0d059c047022e79ed6debc89d4e224c5f"
     },
     "stats": {
       "total": 14,
@@ -205,6 +205,25 @@
     },
     "coverage": 100,
     "test_count": 12,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "nazaclaure",
+    "commit": {
+      "date": "2026-09-01T14:25:49.000Z",
+      "message": "feat: caso 12 - ventaja para jugador 1 Advantage for Player 1",
+      "url": "https://github.com/nazaclaure/JuegoDelTenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 14,
+      "additions": 14,
+      "deletions": 0,
+      "date": "2026-09-01"
+    },
+    "coverage": 100,
+    "test_count": 13,
     "failed_tests": 0,
     "conclusion": "success"
   }

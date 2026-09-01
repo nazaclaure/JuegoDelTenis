@@ -266,9 +266,31 @@
     "testId": 11
   },
   {
-    "commitId": "HEAD",
+    "commitId": "0e6509c0d059c047022e79ed6debc89d4e224c5f",
     "commitName": "feat: caso 11 - empate a 3 puntos Deuce",
     "commitTimestamp": 1788272691276,
     "testId": 11
+  },
+  {
+    "numPassedTests": 12,
+    "failedTests": 1,
+    "numTotalTests": 13,
+    "timestamp": 1788272724652,
+    "success": false,
+    "testId": 12
+  },
+  {
+    "numPassedTests": 13,
+    "failedTests": 0,
+    "numTotalTests": 13,
+    "timestamp": 1788272742088,
+    "success": true,
+    "testId": 12
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: caso 12 - ventaja para jugador 1 Advantage for Player 1",
+    "commitTimestamp": 1788272751505,
+    "testId": 12
   }
 ]
