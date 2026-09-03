@@ -354,9 +354,23 @@
     "testId": 15
   },
   {
-    "commitId": "HEAD",
+    "commitId": "d75667fca336ac17381ce9f93b53d0bb6bfe5eef",
     "commitName": "feat: caso 15 - victoria tras ventaja para jugador 2 Game for Player 2",
     "commitTimestamp": 1788273112232,
     "testId": 15
+  },
+  {
+    "numPassedTests": 16,
+    "failedTests": 0,
+    "numTotalTests": 16,
+    "timestamp": 1788407063391,
+    "success": true,
+    "testId": 16
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "refactor: simplificar logica de puntaje usando metodos auxiliares y mapeo de puntos",
+    "commitTimestamp": 1788407271064,
+    "testId": 16
   }
 ]

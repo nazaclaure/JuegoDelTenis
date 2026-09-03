@@ -266,12 +266,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "d75667fca336ac17381ce9f93b53d0bb6bfe5eef",
     "author": "nazaclaure",
     "commit": {
       "date": "2026-09-01T14:31:50.000Z",
       "message": "feat: caso 15 - victoria tras ventaja para jugador 2 Game for Player 2",
-      "url": "https://github.com/nazaclaure/JuegoDelTenis/commit/HEAD"
+      "url": "https://github.com/nazaclaure/JuegoDelTenis/commit/d75667fca336ac17381ce9f93b53d0bb6bfe5eef"
     },
     "stats": {
       "total": 15,
@@ -280,6 +280,25 @@
       "date": "2026-09-01"
     },
     "coverage": 94.12,
+    "test_count": 16,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "nazaclaure",
+    "commit": {
+      "date": "2026-09-03T03:47:49.000Z",
+      "message": "refactor: simplificar logica de puntaje usando metodos auxiliares y mapeo de puntos",
+      "url": "https://github.com/nazaclaure/JuegoDelTenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 61,
+      "additions": 22,
+      "deletions": 39,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
     "test_count": 16,
     "failed_tests": 0,
     "conclusion": "success"
