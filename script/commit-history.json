@@ -285,17 +285,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "93f61d7ab698ead9b3aaabd91ab85d858dbb7ee7",
     "author": "nazaclaure",
     "commit": {
       "date": "2026-09-03T03:47:49.000Z",
       "message": "refactor: simplificar logica de puntaje usando metodos auxiliares y mapeo de puntos",
-      "url": "https://github.com/nazaclaure/JuegoDelTenis/commit/HEAD"
+      "url": "https://github.com/nazaclaure/JuegoDelTenis/commit/93f61d7ab698ead9b3aaabd91ab85d858dbb7ee7"
     },
     "stats": {
       "total": 61,
       "additions": 22,
       "deletions": 39,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 16,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "nazaclaure",
+    "commit": {
+      "date": "2026-09-03T04:00:26.000Z",
+      "message": "feat: interfaz grafica con botones de anotacion y marcador en tiempo real",
+      "url": "https://github.com/nazaclaure/JuegoDelTenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 57,
+      "additions": 28,
+      "deletions": 29,
       "date": "2026-09-03"
     },
     "coverage": 100,

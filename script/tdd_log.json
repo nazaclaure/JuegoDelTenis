@@ -368,9 +368,15 @@
     "testId": 16
   },
   {
-    "commitId": "HEAD",
+    "commitId": "93f61d7ab698ead9b3aaabd91ab85d858dbb7ee7",
     "commitName": "refactor: simplificar logica de puntaje usando metodos auxiliares y mapeo de puntos",
     "commitTimestamp": 1788407271064,
     "testId": 16
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: interfaz grafica con botones de anotacion y marcador en tiempo real",
+    "commitTimestamp": 1788408028284,
+    "testId": 17
   }
 ]
